@@ -1,0 +1,16 @@
+{
+  "site_url": "https://pickedtested.com",
+  "pinterest_email": "hhhf10151@gmail.com",
+  "pinterest_board": "Best Product Reviews",
+  "user_data_dir": "D:\\AI-Money-Machine\\04-社交媒体矩阵\\Pinterest自动化\\edge_profile",
+  "pin_batch_size": 10,
+  "article_selectors": {
+    "container": ".posts",
+    "card": ".post-card",
+    "title": "h2 a",
+    "link": "h2 a"
+  },
+  "pin_template": {
+    "description_suffix": "\n\n🔗 Full review & best prices on PickedTested.com\n#productreview #buyingguide #amazonfinds"
+  }
+}

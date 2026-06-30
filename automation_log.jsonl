@@ -1,0 +1,4 @@
+{"time": "2026-06-29T16:59:50.547101", "task": "amazon_scrape", "status": "ok", "detail": "scraped successfully"}
+{"time": "2026-06-29T16:59:50.878380", "task": "product_factory", "status": "fail", "detail": " 151, in batch_create\n    print(f\"\\U0001f3ed 数字产品工厂启动\")\n    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'gbk' codec can't encode character '\\U0001f3ed' in position 0: illegal multibyte sequence\n"}
+{"time": "2026-06-29T17:03:25.024330", "task": "seo_factory", "status": "ok", "detail": "3 articles"}
+{"time": "2026-06-29T17:03:25.208179", "task": "blog_build", "status": "fail", "detail": "^^^^^^^^^^^^^\n  File \"D:\\miniconda3\\Lib\\shutil.py\", line 631, in _rmtree_unsafe\n    os.rmdir(path)\n    ~~~~~~~~^^^^^^\nPermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'D:\\\\AI-Money-Machine\\\\blog'\n"}

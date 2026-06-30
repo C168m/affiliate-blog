@@ -1,0 +1,40 @@
+# 🎯 一次性操作清单 — 完成所有手动步骤
+
+## ⚠️ 前提: VPN必须开着
+
+---
+
+## 第一步: 登录Gumroad (5秒)
+1. 打开 Chrome → 输入 **gumroad.com/products**
+2. 点 **Google** → 选 **yxd74881@gmail.com** → 登录
+
+---
+
+## 第二步: 上传发布6个产品 (3分钟)
+
+文件位置: **D:\AI-Money-Machine\_upload_queue\gumroad\**
+
+| 产品名包含 | 文件 | 操作 |
+|-----------|------|------|
+| **SEO Optimization** | gum1.md | 点产品→**Content tab**→拖文件→**发布并继续** |
+| **E-commerce AI** | gum2.md | 同上 |
+| **Real Estate** | gum3.md | 同上 |
+| **Personal Finance** | gum4.md | 同上 |
+| **Customer Service** | gum5.md | 同上 |
+| **Small Business** | 旧产品(无gum文件,任意上传一个.md) | 同上 |
+
+每操作完一个产品, 回到列表继续下一个。**每个产品花30秒**。
+
+---
+
+## 第三步: 发布Medium文章 (1分钟)
+1. 打开 **medium.com/new-story**
+2. 打开文件 **D:\AI-Money-Machine\marketing\seo-blogs\data\medium_5_ai_tools.md** 全选复制
+3. 粘贴到Medium → 找到末尾 **[link]** → 替换为 **https://howler06371.gumroad.com**
+4. 点 **Publish** → 添加5个主题: **AI, Side Hustle, Digital Products, Make Money, Passive Income** → 点 **发布**
+
+---
+
+## ✅ 全完之后告诉我 — 继续做社媒矩阵
+
+**预估总时间: 5分钟。做完直接说"好了"。**

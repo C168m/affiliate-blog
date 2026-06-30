@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-29T17:30:46.077900",
+  "steps": [
+    "[17:30:45] [SKIP] TrackingID NOT SET",
+    "[17:30:46] [OK] Server port 8080",
+    "[17:30:46] [OK] SEO Audit 9 articles, avg 85/100",
+    "[17:30:46] [ISSUE]   best-ai-writing-tools-2026.html Only 0 Amazon links",
+    "[17:30:46] [ISSUE]   best-bluetooth-earbuds-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-mechanical-keyboard-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-monitor-stand-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-phone-case-iphone-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-usb-hub-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-webcam-1080p-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-wireless-charger-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [ISSUE]   best-wireless-mouse-2026.html PLACEHOLDER TAG!",
+    "[17:30:46] [OK] Sitemap 11 URLs",
+    "[17:30:46] [OK] Index 9 articles",
+    "[17:30:46] [QUEUED] Social: wireless mouse D:\\AI-Money-Machine\\06-流量引擎\\联盟营销\\data\\social_posts\\social_20260629_1730_best-wireless-mouse-2026.json",
+    "[17:30:46] [QUEUED] Social: wireless charger D:\\AI-Money-Machine\\06-流量引擎\\联盟营销\\data\\social_posts\\social_20260629_1730_best-wireless-charger-2026.json"
+  ]
+}

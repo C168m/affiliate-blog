@@ -1,0 +1,126 @@
+[2026-06-18 07:30:54] [LOGIN] 正在打开浏览器...
+[2026-06-18 07:30:59] [LOGIN] 页面: https://www.pinterest.com/login/
+[2026-06-18 07:30:59] [LOGIN] 请在打开的浏览器中用以下账号登录:
+[2026-06-18 07:30:59] [LOGIN]   邮箱: hhhf10151@gmail.com
+[2026-06-18 07:30:59] [LOGIN] 
+[2026-06-18 07:30:59] [LOGIN] 登录完成后按 Enter 关闭浏览器...
+[2026-06-18 07:39:07] [LAUNCH] Starting Edge with dedicated profile on port 9223...
+[2026-06-18 07:39:09] [LAUNCH] Edge ready: Edg/149.0.4022.69
+[2026-06-18 07:39:09] [PUBLISH] 10 pins queued
+[2026-06-18 07:39:10] [CDP] Connecting to Edge on port 9223...
+[2026-06-18 07:39:17] [LOGIN] Not logged in. Opening login page...
+[2026-06-18 07:39:17] [LOGIN] Account: hhhf10151@gmail.com
+[2026-06-18 07:39:17] [LOGIN] Please log in manually in the Edge window that just opened.
+[2026-06-18 07:39:17] [LOGIN] (This is real Edge - Pinterest won't block it)
+[2026-06-18 07:39:17] [LOGIN] After login, come back here and press Enter...
+[2026-06-18 07:45:32] [LAUNCH] Starting Edge with dedicated profile on port 9223...
+[2026-06-18 07:45:33] [LAUNCH] Edge ready: Edg/149.0.4022.69
+[2026-06-18 07:45:33] [PUBLISH] 10 pins queued
+[2026-06-18 07:45:34] [CDP] Connecting to Edge on port 9223...
+[2026-06-18 07:45:37] [CLOSE] Shutting down Edge...
+[2026-06-18 07:45:37] [CLOSE] Done
+[2026-06-18 07:47:33] [LAUNCH] Starting Edge with dedicated profile on port 9223...
+[2026-06-18 07:47:35] [LAUNCH] Edge ready: Edg/149.0.4022.69
+[2026-06-18 07:47:35] [PUBLISH] 10 pins queued
+[2026-06-18 07:47:36] [CDP] Connecting to Edge on port 9223...
+[2026-06-18 07:50:09] [CLOSE] Shutting down Edge...
+[2026-06-18 07:50:09] [CLOSE] Done
+[2026-06-18 07:50:45] [LAUNCH] Starting Edge with dedicated profile on port 9223...
+[2026-06-18 07:50:47] [LAUNCH] Edge ready: Edg/149.0.4022.69
+[2026-06-18 07:50:48] [PUBLISH] 10 pins queued
+[2026-06-18 07:50:50] [CDP] Connecting to Edge on port 9223...
+[2026-06-18 07:50:57] [LOGIN] Not logged in. Opening login page...
+[2026-06-18 07:50:57] [LOGIN] Account: hhhf10151@gmail.com
+[2026-06-18 07:50:57] [LOGIN] Please log in manually in the Edge window that just opened.
+[2026-06-18 07:50:57] [LOGIN] (This is real Edge - Pinterest won't block it)
+[2026-06-18 07:50:57] [LOGIN] Auto-detecting login (checking every 5 sec, max 5 min)...
+[2026-06-18 07:51:05] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:11] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:16] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:21] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:26] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:31] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:36] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:41] [LOGIN] Waiting... (please log in the Edge window)
+[2026-06-18 07:51:51] [CLOSE] Shutting down Edge...
+[2026-06-18 07:51:51] [CLOSE] Done
+[2026-06-18 08:16:40] [LOGIN] 正在打开浏览器...
+[2026-06-18 08:16:48] [LOGIN] 页面: https://www.pinterest.com/login/
+[2026-06-18 08:16:48] [LOGIN] 请在打开的浏览器中用以下账号登录:
+[2026-06-18 08:16:48] [LOGIN]   邮箱: hhhf10151@gmail.com
+[2026-06-18 08:16:48] [LOGIN] 
+[2026-06-18 08:16:48] [LOGIN] 登录完成后按 Enter 关闭浏览器...
+[2026-06-18 08:17:36] [LOGIN] 正在打开浏览器...
+[2026-06-18 08:17:41] [LOGIN] 页面: https://www.pinterest.com/login/
+[2026-06-18 08:17:41] [LOGIN] 请在打开的浏览器中用以下账号登录:
+[2026-06-18 08:17:41] [LOGIN]   邮箱: hhhf10151@gmail.com
+[2026-06-18 08:17:41] [LOGIN] 
+[2026-06-18 08:17:41] [LOGIN] 自动检测登录状态（每5秒检查一次，最长5分钟）...
+[2026-06-18 08:17:48] [LOGIN] 等待中... (第1次检查)
+[2026-06-18 08:17:55] [LOGIN] 等待中... (第2次检查)
+[2026-06-18 08:18:01] [LOGIN] 等待中... (第3次检查)
+[2026-06-18 08:18:08] [LOGIN] 等待中... (第4次检查)
+[2026-06-18 08:18:15] [LOGIN] 等待中... (第5次检查)
+[2026-06-18 08:18:21] [LOGIN] 等待中... (第6次检查)
+[2026-06-18 08:18:28] [LOGIN] 等待中... (第7次检查)
+[2026-06-18 08:18:35] [LOGIN] 等待中... (第8次检查)
+[2026-06-18 08:18:41] [LOGIN] 等待中... (第9次检查)
+[2026-06-18 08:18:48] [LOGIN] 等待中... (第10次检查)
+[2026-06-18 08:18:54] [LOGIN] 等待中... (第11次检查)
+[2026-06-18 08:19:01] [LOGIN] 等待中... (第12次检查)
+[2026-06-18 08:19:07] [LOGIN] 等待中... (第13次检查)
+[2026-06-18 08:19:13] [LOGIN] 等待中... (第14次检查)
+[2026-06-18 08:19:20] [LOGIN] 等待中... (第15次检查)
+[2026-06-18 08:19:26] [LOGIN] 等待中... (第16次检查)
+[2026-06-18 08:19:32] [LOGIN] 等待中... (第17次检查)
+[2026-06-18 08:19:39] [LOGIN] 等待中... (第18次检查)
+[2026-06-18 08:19:45] [LOGIN] 等待中... (第19次检查)
+[2026-06-18 08:19:52] [LOGIN] 等待中... (第20次检查)
+[2026-06-18 08:19:59] [LOGIN] 等待中... (第21次检查)
+[2026-06-18 08:20:06] [LOGIN] 等待中... (第22次检查)
+[2026-06-18 08:20:23] [LOGIN] 等待中... (第23次检查)
+[2026-06-18 08:20:43] [LOGIN] 检查出错（可能正在登录中）: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.pinterest.com/", waiting until "domcontentloaded"
+
+[2026-06-18 08:21:04] [LOGIN] 检查出错（可能正在登录中）: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.pinterest.com/", waiting until "domcontentloaded"
+
+[2026-06-18 08:21:13] [LOGIN] 等待中... (第26次检查)
+[2026-06-18 08:21:28] [LOGIN] 等待中... (第27次检查)
+[2026-06-18 08:21:45] [LOGIN] 等待中... (第28次检查)
+[2026-06-18 08:21:56] [LOGIN] 等待中... (第29次检查)
+[2026-06-18 08:22:06] [LOGIN] 等待中... (第30次检查)
+[2026-06-18 08:22:15] [LOGIN] 等待中... (第31次检查)
+[2026-06-18 08:22:22] [LOGIN] 等待中... (第32次检查)
+[2026-06-18 08:22:29] [LOGIN] 等待中... (第33次检查)
+[2026-06-18 08:22:37] [LOGIN] 等待中... (第34次检查)
+[2026-06-18 08:22:43] [LOGIN] 等待中... (第35次检查)
+[2026-06-18 08:22:49] [LOGIN] 等待中... (第36次检查)
+[2026-06-18 08:22:55] [LOGIN] 等待中... (第37次检查)
+[2026-06-18 08:23:01] [LOGIN] 等待中... (第38次检查)
+[2026-06-18 08:23:07] [LOGIN] 等待中... (第39次检查)
+[2026-06-18 08:23:14] [LOGIN] 等待中... (第40次检查)
+[2026-06-18 08:23:20] [LOGIN] 等待中... (第41次检查)
+[2026-06-18 08:23:27] [LOGIN] 等待中... (第42次检查)
+[2026-06-18 08:23:33] [LOGIN] 等待中... (第43次检查)
+[2026-06-18 08:23:39] [LOGIN] 等待中... (第44次检查)
+[2026-06-18 08:23:46] [LOGIN] 等待中... (第45次检查)
+[2026-06-18 08:23:52] [LOGIN] 等待中... (第46次检查)
+[2026-06-18 08:23:58] [LOGIN] 等待中... (第47次检查)
+[2026-06-18 08:24:04] [LOGIN] 等待中... (第48次检查)
+[2026-06-18 08:24:10] [LOGIN] 等待中... (第49次检查)
+[2026-06-18 08:24:16] [LOGIN] 等待中... (第50次检查)
+[2026-06-18 08:24:22] [LOGIN] 等待中... (第51次检查)
+[2026-06-18 08:24:28] [LOGIN] 等待中... (第52次检查)
+[2026-06-18 08:24:35] [LOGIN] 等待中... (第53次检查)
+[2026-06-18 08:24:42] [LOGIN] 等待中... (第54次检查)
+[2026-06-18 08:24:49] [LOGIN] 等待中... (第55次检查)
+[2026-06-18 08:24:58] [LOGIN] 等待中... (第56次检查)
+[2026-06-18 08:25:05] [LOGIN] 等待中... (第57次检查)
+[2026-06-18 08:25:12] [LOGIN] 等待中... (第58次检查)
+[2026-06-18 08:25:19] [LOGIN] 等待中... (第59次检查)
+[2026-06-18 08:25:26] [LOGIN] 等待中... (第60次检查)
+[2026-06-18 08:25:26] [WARN] 超时未检测到登录，请检查是否登录成功
+[2026-06-18 08:25:29] [DEBUG] 已保存截图 login_check.png

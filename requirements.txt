@@ -1,0 +1,14 @@
+requests>=2.31.0
+playwright>=1.48.0
+beautifulsoup4>=4.12.0
+schedule>=1.2.0
+pandas>=2.2.0
+plotly>=5.22.0
+openai>=1.55.0
+moviepy>=1.0.3
+edge-tts>=6.1.0
+python-dotenv>=1.0.0
+rich>=13.9.0
+streamlit>=1.40.0
+tweepy>=4.14.0
+praw>=7.7.0

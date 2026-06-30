@@ -1,0 +1,164 @@
+{
+   "checksum": "10a552ba7c0574db244a73f39d1efaf0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13346754942842085",
+            "date_last_used": "0",
+            "guid": "d336b4c3-a0a5-440d-a07e-fb415037f58f",
+            "id": "7",
+            "name": "地税办税中心",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://bs.hebds.gov.cn/login/login.jsp",
+            "visit_count": 0
+         }, {
+            "date_added": "13346754942842085",
+            "date_last_used": "0",
+            "guid": "8b0a53df-0ecd-451f-aef1-a5cded9fa9a8",
+            "id": "8",
+            "name": "河北CA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.hebca.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13369037280015232",
+            "date_last_used": "0",
+            "guid": "d07c12ae-5180-42e2-b3fb-4ac38a3b0dd3",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "中级会计职称考试题库_中级会计机考模拟系统免费做题-之了课堂",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.zlketang.com/exercises/6.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13398864847574859",
+            "date_last_used": "13411143330084969",
+            "guid": "761cedce-286e-4a85-90f2-50aa13225155",
+            "id": "10",
+            "name": "国家税务总局河北省电子税务局",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tpass.hebei.chinatax.gov.cn:8443/#/login?redirect_uri=https%3A%2F%2Fetax.hebei.chinatax.gov.cn%3A8443%2Fmhzx%2Fapi%2Fmh%2Ftpass%2Fcode&client_id=ap5bfdavp66a49979apa5848fpaa5353&response_type=code&state=276ac80bd4594af7895042cf7ea919d4&client_pid=ap5bfdavp66a49979apa5848fpaa5353",
+            "visit_count": 5
+         }, {
+            "date_added": "13401425593214830",
+            "date_last_used": "13420810077431508",
+            "guid": "c6abb56f-3e13-4940-aea2-862840bf2fce",
+            "id": "11",
+            "name": "国家税务总局电子税务局",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://etax.hebei.chinatax.gov.cn:8443/",
+            "visit_count": 7
+         }, {
+            "date_added": "13414315808169128",
+            "date_last_used": "0",
+            "guid": "5e0061a1-4de6-49e1-9c61-39c040f41c1f",
+            "id": "12",
+            "name": "阿里企业邮箱-登录入口",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.ali-exmail.cn/Land/",
+            "visit_count": 1
+         }, {
+            "date_added": "13424232668466025",
+            "date_last_used": "13425452665848236",
+            "guid": "cd9ea230-1f7b-4d23-881c-62942ad4ea63",
+            "id": "13",
+            "name": "DeepSeek 开放平台",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://platform.deepseek.com/usage",
+            "visit_count": 3
+         }, {
+            "date_added": "13425367653204041",
+            "date_last_used": "0",
+            "guid": "bde116fc-3b4e-4501-a912-742a0046e038",
+            "id": "14",
+            "name": "Amazon  亚马逊",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.amazon.com/?ref_=nav_ya_signin",
+            "visit_count": 1
+         }, {
+            "date_added": "13425650370986834",
+            "date_last_used": "13425874640644984",
+            "guid": "d5786fb5-e2b4-4ed3-ad0c-e3e55499153f",
+            "id": "15",
+            "name": "Amazon.com Associates 后台",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://affiliate-program.amazon.com/p/reporting/earnings",
+            "visit_count": 4
+         }, {
+            "date_added": "13425741636285293",
+            "date_last_used": "13425874631569034",
+            "guid": "ca97fda7-faf7-4329-8956-ac8259ee0dea",
+            "id": "16",
+            "name": "Cloudflare Dashboard | Manage Your Account",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dash.cloudflare.com/65598ba0f3f3f8bd9ec25c511e703475/analytics",
+            "visit_count": 3
+         } ],
+         "date_added": "13426213148420901",
+         "date_last_used": "0",
+         "date_modified": "13425741636285293",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "收藏夹栏",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13426213148420901",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13426213148420901",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动收藏夹",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13426213148420901",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "工作区",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDdmV9SeAQAAEgAqGGRTMHg3U3hQb281bHNyQUlOeStJTHc9PUgDoAYHEq4BCBASqQEKHGxqcUNnd3FzNGlpbmlCdVVHUFJhQ3JkWUlkST0SJGNhOTdmZGE3LWZhZjctNDMyOS04OTU2LWFjODI1OWVlMGRlYRgAIAAoADD5tZqe7DM4ionl3uszQIqJ5d7rM0ocSFhSQUJUM3dlNVdjNTg4SGRsZHFtL0Nid2Z3PVogIh7/9FcwcXJDUFhTMDFFRzJBOFUwQnhZdjRIMXpZZz1lnowZZ8I+AmAFEq0BCAwSqAEKHGZNT2VVbG02UDlyY2EydkpkTGZSWTJuWFRTZz0SJDVlMDA2MWExLTRkZTYtNDllMS05YzYxLTM5YzA0MGY0MWMxZhgAIAAoADDbpMSWwTM4iJvElsEzQIibxJbBM0ocR3Yxd3dDNlNYSy8yNzFNdExVcjMvQXhBRlcwPVofIh3/T0FPWTFQNDVwazlYSDZiTnVTd1NMSHNHYk5VPWVCql6fwj4CYAUSrQEICxKoAQocZTJldFhQY0wzRzhvaU53LzY2c3FQUXZxQnVRPRIkYzZhYmI1NmYtM2UxMy00OTQwLWFlYTItODYyODQwYmYyZmNlGAAgACgAMJLXnq/ZMziHmOKttTNAh5jirbUzShwxblRjZDdTeE93WjNZNDZqL2lSSG91R1pqSG89Wh8iHf1paTZQbGJOcHRBQVJKMVNpdTFJWHkwYUovbHc9ZYp9/4/CPgJgBRKuAQgNEqkBChxuMVdVc2hGckE3aTJQeTl6ZlpaemdBVStlcG89EiRjZDllYTIzMC0xZjdiLTRkMjMtODgxYy02Mjk0MmFkNGVhNjMYACAAKAAwuuT/1OozOPDloY/mM0Dw5aGP5jNKHFRXMWpDcE9qVDFyOTNaajdiUVN0d1lUNnQ4MD1aICIe/6c4RGdzOXlCTXA2YkhESkdzd21xeENTdFRKRXc9ZYKvMOfCPgJgBRKuAQgPEqkBChxoOXI1NWVocTU4Tnh4N3hBc2JvdW03VXNPRFE9EiRkNTc4NmZiNS1lMmI0LTRlZDMtYWQwYy1lM2U1NTQ5OTE1M2YYACAAKAAwqP+anuwzOPHdorPrM0Dx3aKz6zNKHGpxcWV2NzR2bGEybGpEZ1huTk8yekRBa0IwOD1aICIe/+lJYjJaRGNpSzlyTzZydkFrRFdudDhKM3dhbzQ9ZWVkjMjCPgJgBRKtAQgJEqgBChwwamdLUVo4RmE0MDFiR2dXRnIvajZpeXlyNk09EiRkMDdjMTJhZS01MTgwLTQyZTItYjNmYi00YWMzOGEzYjBkZDMYACAAKAAwrvGFwJgyOM7zhcCYMkDO84XAmDJKHHJIQUFoanVEQUNqcmdNZk1IckVpTEF6WWhnMD1aHyId93pkNEVvSVNYRU1TVU5nWFhrbElpSXBiK3MxYz1lCJ/6X8I+AmAFEq0BCAoSqAEKHEZGSi9wZVZLRjkrcTRaVHlOSkUvaXQ2Vzgwcz0SJDc2MWNlZGNlLTI4NmUtNGE4NS05MGYyLTUwYWExMzIyNTE1NRgAIAAoADDTg5+v2TM4npjirbUzQJ6Y4q21M0ocRHBQT2pjMnN4SUM4aWgrNkZjLzhyRUIvOUY4PVofIh37VG1qZGR4MjhUTFl6blJaM3ZYMFVrWUYwNHVVPWVTZva6wj4CYAUSrAEIBxKnAQocem0yL1dPcFV5cHpPOXllUlZxc2Y5N0ZnYWMwPRIkZDMzNmI0YzMtYTBhNS00NDBkLWEwN2UtZmI0MTUwMzdmNThmGAAgACgAMKXP+43jMTiE2fuN4zFAhNn7jeMxShxCQWdTZ0tObXF6czBFL3dSam1yVzFoK1gyWTQ9Wh4iHHNUZVN4SHd5OXY3bEY3b1pwa053MUdiL3k2MD1lAAAAAMI+AmAFEo4BCAUSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJDEwODcxMWQ4LWUxNjktNTdkNi04ZGFkLWI4ZTE3N2NhYTM5NxgAIAAoADCJksedpjM44ZXHnaYzQOGVx52mM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwNTU2MTcxZC1lMDI3LTU5ZjAtOWE3My1mZWM3OTc5OGFjZTUYACAAKAAw8uG+//YwOO7lvv/2MEDu5b7/9jBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrAEICBKnAQocV2ZJYkFwRXRoYzhMWnc4WmtsL0YrTjdIczFBPRIkOGIwYTUzZGYtMGVjZC00NTFmLWFlZjEtYTVjZGVkOWZhOWE4GAAgACgAMKTP+43jMTjo2PuN4zFA6Nj7jeMxShxsMTZIL25VUDVIZjlabk9QN3RwOG00ME0rRmM9Wh4iHHpLNTZNYS9QQXVMVW9hMHhaUHFuUzY3MzB6Zz1lAAAAAMI+AmAFEq4BCA4SqQEKHFJvOFBBVVJQUWZ3ZXFkUGFQRnFDeWpVVEpaZz0SJGJkZTExNmZjLTNiNGUtNDUwMS1hOTEyLTc0MmEwMDQ2ZTAzOBgAIAAoADC2zN2i7TM4hP26rOozQIT9uqzqM0ocY0lRRVpCUGlGQmRCWTFrM2pDclJ3VUV5ZFEwPVogIh7/0y9EdVloMVR0UEFUTkdZaW1VRk9EakxkaHFxcz1lLsvNYMI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDJkNzVmZGM5LTEzZjQtNTI4Ny1hYzQ2LTQyMTZjNWJjNDFjOBgAIAAoADDx4b7/9jA41eW+//YwQNXlvv/2MEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ4ZmY5ZTFhZC05MGI0LTUxNGMtYWZmMi0zYTgzMTI5M2IzMzgYACAAKAAw9+G+//YwOITnvv/2MECE577/9jBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

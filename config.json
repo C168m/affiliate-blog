@@ -1,0 +1,83 @@
+{
+  "project": {
+    "name": "AI Money Machine",
+    "version": "2.0.0",
+    "created": "2026-06-09",
+    "tagline": "零实名·全自动·全球变现"
+  },
+  "revenue_lines": {
+    "A_digital_products": {
+      "enabled": true,
+      "platforms": [
+        "gumroad",
+        "payhip",
+        "lemonsqueezy"
+      ],
+      "products_per_day": 10,
+      "target_monthly_revenue": 3000
+    },
+    "B_youtube": {
+      "enabled": true,
+      "shorts_per_day": 2,
+      "long_videos_per_week": 3,
+      "target_monthly_revenue": 2000
+    },
+    "C_seo_sites": {
+      "enabled": true,
+      "articles_per_day": 5,
+      "target_monthly_revenue": 2000
+    }
+  },
+  "niches": [
+    "AI tools",
+    "productivity",
+    "marketing",
+    "coding"
+  ],
+  "products_per_day": 10,
+  "youtube_shorts_per_day": 2,
+  "youtube_videos_per_week": 3,
+  "seo_articles_per_day": 5,
+  "social_posts_per_day": 10,
+  "platforms_arr": [
+    "gumroad",
+    "payhip",
+    "lemonsqueezy"
+  ],
+  "platforms": {
+    "gumroad": {
+      "fee": "10%",
+      "payout": "PayPal",
+      "register": "gumroad.com/signup"
+    },
+    "payhip": {
+      "fee": "5%",
+      "payout": "PayPal/Stripe",
+      "register": "payhip.com"
+    },
+    "lemonsqueezy": {
+      "fee": "5%+$0.50",
+      "payout": "Payoneer",
+      "register": "lemonsqueezy.com"
+    }
+  },
+  "scheduler": {
+    "check_interval_seconds": 60,
+    "timezone": "Asia/Shanghai",
+    "daily_tasks": 13
+  },
+  "proxy": {
+    "enabled": false,
+    "note": "Set HTTPS_PROXY for Gumroad/YouTube/Twitter/Reddit"
+  },
+  "network_audit": {
+    "deepseek": true,
+    "payhip": true,
+    "lemonsqueezy": true,
+    "amazon": true,
+    "gumroad": false,
+    "youtube": false,
+    "twitter": false,
+    "reddit": false
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "PROD_20260618_000",
+    "type": "prompt_pack",
+    "title_en": "Ultimate Ai Tools AI提示词包 Pack",
+    "title_cn": "终极AI toolsAI提示词包合集",
+    "price": 9.99,
+    "niche": "AI tools",
+    "description": "Professionally curated ai提示词包 for AI tools. AI-generated, human-curated.",
+    "tags": [
+      "ai tools",
+      "ai提示词包",
+      "ai",
+      "digital-product"
+    ],
+    "file_path": "D:\\AI-Money-Machine\\01-数字产品工厂\\output\\product_000.pdf",
+    "created_at": "2026-06-18T08:30:34.174542",
+    "status": "ready"
+  },
+  {
+    "id": "PROD_20260618_001",
+    "type": "notion_template",
+    "title_en": "Ultimate Productivity Notion模板 Pack",
+    "title_cn": "终极productivityNotion模板合集",
+    "price": 14.99,
+    "niche": "productivity",
+    "description": "Professionally curated notion模板 for productivity. AI-generated, human-curated.",
+    "tags": [
+      "productivity",
+      "notion模板",
+      "ai",
+      "digital-product"
+    ],
+    "file_path": "D:\\AI-Money-Machine\\01-数字产品工厂\\output\\product_001.pdf",
+    "created_at": "2026-06-18T08:30:34.174928",
+    "status": "ready"
+  },
+  {
+    "id": "PROD_20260618_002",
+    "type": "ebook",
+    "title_en": "Ultimate Marketing AI教程电子书 Pack",
+    "title_cn": "终极marketingAI教程电子书合集",
+    "price": 19.99,
+    "niche": "marketing",
+    "description": "Professionally curated ai教程电子书 for marketing. AI-generated, human-curated.",
+    "tags": [
+      "marketing",
+      "ai教程电子书",
+      "ai",
+      "digital-product"
+    ],
+    "file_path": "D:\\AI-Money-Machine\\01-数字产品工厂\\output\\product_002.pdf",
+    "created_at": "2026-06-18T08:30:34.175320",
+    "status": "ready"
+  },
+  {
+    "id": "PROD_20260618_003",
+    "type": "asset_pack",
+    "title_en": "Ultimate Coding 素材/代码包 Pack",
+    "title_cn": "终极coding素材/代码包合集",
+    "price": 29.99,
+    "niche": "coding",
+    "description": "Professionally curated 素材/代码包 for coding. AI-generated, human-curated.",
+    "tags": [
+      "coding",
+      "素材/代码包",
+      "ai",
+      "digital-product"
+    ],
+    "file_path": "D:\\AI-Money-Machine\\01-数字产品工厂\\output\\product_003.pdf",
+    "created_at": "2026-06-18T08:30:34.175700",
+    "status": "ready"
+  },
+  {
+    "id": "PROD_20260618_004",
+    "type": "prompt_pack",
+    "title_en": "Ultimate Ai Tools AI提示词包 Pack",
+    "title_cn": "终极AI toolsAI提示词包合集",
+    "price": 9.99,
+    "niche": "AI tools",
+    "description": "Professionally curated ai提示词包 for AI tools. AI-generated, human-curated.",
+    "tags": [
+      "ai tools",
+      "ai提示词包",
+      "ai",
+      "digital-product"
+    ],
+    "file_path": "D:\\AI-Money-Machine\\01-数字产品工厂\\output\\product_004.pdf",
+    "created_at": "2026-06-18T08:30:34.176051",
+    "status": "ready"
+  }
+]

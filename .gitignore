@@ -1,0 +1,11 @@
+# AI Money Machine
+logs/
+*.pyc
+__pycache__/
+.env
+cf_*.txt
+cf_output.txt
+data/logs/
+analytics/dashboard/reports/
+*.zip
+node_modules/

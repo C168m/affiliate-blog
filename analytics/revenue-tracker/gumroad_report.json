@@ -1,0 +1,124 @@
+{
+  "platform": "Gumroad",
+  "store": "https://howler06371.gumroad.com",
+  "generated_at": "2026-06-18 07:54",
+  "summary": {
+    "total_products": 10,
+    "published": 10,
+    "draft": 0,
+    "total_store_value": "$154.86",
+    "total_sales": 0,
+    "total_revenue": "$0.0"
+  },
+  "by_category": {
+    "AI Prompt Packs": {
+      "count": 3,
+      "value": 29.97
+    },
+    "Notion Templates": {
+      "count": 3,
+      "value": 44.97
+    },
+    "AI Guides": {
+      "count": 4,
+      "value": 79.92
+    }
+  },
+  "pricing": {
+    "avg_price": "$15.49",
+    "min_price": "$9.99",
+    "max_price": "$19.98"
+  },
+  "products": [
+    {
+      "name": "Ultimate Customer Service Automation Prompt Pack",
+      "url": "https://howler06371.gumroad.com/l/ewqobu",
+      "price": "$9.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Ultimate Personal Finance with AI Notion Template",
+      "url": "https://howler06371.gumroad.com/l/jdqsye",
+      "price": "$14.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Mastering AI for Real Estate Complete Guide 2026",
+      "url": "https://howler06371.gumroad.com/l/cjemk",
+      "price": "$19.98",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Mastering E-commerce AI Tools Complete Guide 2026",
+      "url": "https://howler06371.gumroad.com/l/scooum",
+      "price": "$19.98",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Mastering SEO Optimization with AI Complete Guide 2026",
+      "url": "https://howler06371.gumroad.com/l/qubudd",
+      "price": "$19.98",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Ultimate YouTube Automation Prompt Pack — 10 Ready-to-Use AI Prompts",
+      "url": "https://howler06371.gumroad.com/l/pesoed",
+      "price": "$9.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Ultimate Graphic Design with AI Notion Template — All-in-One System",
+      "url": "https://howler06371.gumroad.com/l/mvonqg",
+      "price": "$14.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Mastering AI Coding & Development — Complete Guide 2026",
+      "url": "https://howler06371.gumroad.com/l/fuowsw",
+      "price": "$19.98",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Ultimate Productivity & Notion Templates Prompt Pack — 10 Ready-to-Use AI Prompts",
+      "url": "https://howler06371.gumroad.com/l/zmyrkl",
+      "price": "$9.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    },
+    {
+      "name": "Ultimate AI for Small Business Notion Template — All-in-One System",
+      "url": "https://howler06371.gumroad.com/l/xhxtrr",
+      "price": "$14.99",
+      "sales": 0,
+      "revenue": "$0.0",
+      "published": true,
+      "has_file": true
+    }
+  ]
+}
