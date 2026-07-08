@@ -68,7 +68,7 @@ def log(msg):
     print(line)
     return line
 
-def run(cmd, cwd=None, timeout=30):
+def run(cmd, cwd=None, timeout=120):
     """运行命令,返回 (returncode, stdout, stderr)"""
     try:
         r = subprocess.run(cmd, shell=True, capture_output=True, text=True,
@@ -141,9 +141,9 @@ class TagPatcher:
 # ============================================================
 ARTICLE_CSS = """:root{--bg:#fff;--text:#1a1a1a;--muted:#666;--accent:#e47911;--link:#0066c0;--border:#e5e5e5}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--text);background:var(--bg);line-height:1.7}.container{max-width:800px;margin:0 auto;padding:0 20px}header{border-bottom:1px solid var(--border);padding:24px 0;margin-bottom:40px}header h1{font-size:1.6rem;font-weight:700}header h1 a{color:var(--text);text-decoration:none}header p{color:var(--muted);font-size:.9rem;margin-top:4px}nav{margin-top:12px;display:flex;gap:20px}nav a{color:var(--link);text-decoration:none;font-size:.85rem}.btn-amazon{display:inline-block;background:linear-gradient(to bottom,#f7dfa5,#f0c14b);border:1px solid #a88734;border-radius:3px;padding:8px 16px;color:#111;font-weight:600;text-decoration:none;font-size:.9rem}.btn-amazon:hover{background:linear-gradient(to bottom,#f5d78e,#eeb933)}.product-table{width:100%;border-collapse:collapse;margin:20px 0}.product-table th,.product-table td{border:1px solid var(--border);padding:10px 12px;text-align:left}.product-table th{background:#f8f9fa}.pros-cons{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:16px 0}.pros{color:#2d7d46}.cons{color:#c45500}footer{border-top:1px solid var(--border);margin-top:60px;padding:24px 0;text-align:center;color:var(--muted);font-size:.8rem}.disclosure{background:#fff8f0;border:1px solid #ffe0b2;border-radius:6px;padding:12px 16px;margin:20px 0;font-size:.8rem;color:#b26500}.article-content h1{font-size:1.8rem;margin:0 0 16px 0}.article-content h2{font-size:1.4rem;margin:32px 0 12px 0;padding-bottom:6px;border-bottom:1px solid var(--border)}.article-content h3{font-size:1.1rem;margin:20px 0 8px 0}.article-content p{margin:0 0 16px 0}.article-content ul,.article-content ol{margin:0 0 16px 24px}.article-content li{margin-bottom:6px}.breadcrumb{font-size:.8rem;color:var(--muted);margin-bottom:20px}.breadcrumb a{color:var(--link);text-decoration:none}@media(max-width:600px){.container{padding:0 16px}.pros-cons{grid-template-columns:1fr}}"""
 
-ARTICLE_HTML = """<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} — {blog_name}</title><meta name="description" content="{meta_desc}"><style>{css}</style></head><body><div class="container"><header><h1><a href="/">{blog_name}</a></h1><p>{blog_tagline}</p><nav><a href="/">Home</a> <a href="/disclosure.html">Disclosure</a></nav></header><article class="article-content"><div class="breadcrumb"><a href="/">Home</a> &raquo; {category}</div><div class="disclosure">As an Amazon Associate we earn from qualifying purchases.</div>{body}</article><footer><p>{blog_name} &copy; 2026</p></footer></div></body></html>"""
+ARTICLE_HTML = """<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">{ga_snippet}<title>{title} — {blog_name}</title><meta name="description" content="{meta_desc}"><style>{css}</style></head><body><div class="container"><header><h1><a href="/">{blog_name}</a></h1><p>{blog_tagline}</p><nav><a href="/">Home</a> <a href="/disclosure.html">Disclosure</a></nav></header><article class="article-content"><div class="breadcrumb"><a href="/">Home</a> &raquo; {category}</div><div class="disclosure">As an Amazon Associate we earn from qualifying purchases.</div>{body}</article><footer><p>{blog_name} &copy; 2026</p></footer></div></body></html>"""
 
-INDEX_HTML = """<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{blog_name} — Best Tech Reviews 2026</title><meta name="description" content="Expert reviews and buying guides for tech products."><style>{css}</style></head><body><div class="container"><header><h1><a href="/">{blog_name}</a></h1><p>{blog_tagline}</p><nav><a href="/">Home</a> <a href="/disclosure.html">Disclosure</a></nav></header><main><div class="disclosure">As an Amazon Associate we earn from qualifying purchases.</div><div class="article-grid">{cards}</div></main><footer><p>{blog_name} &copy; 2026</p></footer></div></body></html>"""
+INDEX_HTML = """<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">{ga_snippet}<title>{{blog_name}} — Best Tech Reviews 2026</title><meta name="description" content="Expert reviews and buying guides for tech products."><style>{css}</style></head><body><div class="container"><header><h1><a href="/">{blog_name}</a></h1><p>{blog_tagline}</p><nav><a href="/">Home</a> <a href="/disclosure.html">Disclosure</a></nav></header><main><div class="disclosure">As an Amazon Associate we earn from qualifying purchases.</div><div class="article-grid">{cards}</div></main><footer><p>{blog_name} &copy; 2026</p></footer></div></body></html>"""
 
 INDEX_CSS = ":root{--bg:#fff;--text:#1a1a1a;--muted:#666;--accent:#e47911;--link:#0066c0;--border:#e5e5e5}*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;color:var(--text);background:var(--bg);line-height:1.7}.container{max-width:800px;margin:0 auto;padding:0 20px}header{border-bottom:1px solid var(--border);padding:24px 0;margin-bottom:40px}header h1{font-size:1.6rem;font-weight:700}header h1 a{color:var(--text);text-decoration:none}header p{color:var(--muted);font-size:.9rem;margin-top:4px}nav{margin-top:12px;display:flex;gap:20px}nav a{color:var(--link);text-decoration:none;font-size:.85rem}.hero{margin-bottom:40px}.hero h2{font-size:1.3rem;margin-bottom:8px}.hero p{color:var(--muted)}.article-grid{display:grid;gap:24px}.article-card{border:1px solid var(--border);border-radius:8px;padding:20px;transition:box-shadow .2s}.article-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.08)}.article-card h3{font-size:1.1rem;margin-bottom:6px}.article-card h3 a{color:var(--link);text-decoration:none}.article-card h3 a:hover{text-decoration:underline;color:#c45500}.article-card .meta{font-size:.8rem;color:var(--muted);margin-top:8px}.article-card .tag{display:inline-block;background:#f0f7ff;color:#0066c0;padding:2px 8px;border-radius:4px;font-size:.75rem;margin-right:6px}.disclosure{background:#fff8f0;border:1px solid #ffe0b2;border-radius:6px;padding:12px 16px;margin:20px 0;font-size:.8rem;color:#b26500}footer{border-top:1px solid var(--border);margin-top:60px;padding:24px 0;text-align:center;color:var(--muted);font-size:.8rem}@media(max-width:600px){.container{padding:0 16px}}"
 
@@ -198,8 +198,13 @@ class ContentEngine:
         for f in articles[:20]:
             name = f.stem.replace("best-","").replace("-2026","").replace("-"," ").title()
             cards += f'<div class="article-card"><span class="tag">Review</span><h3><a href="/{f.name}">{name}</a></h3><p>Buying guide and top picks for {name.lower()}.</p><div class="meta">Updated 2026</div></div>\n'
+        ga_id = self.c.get("google_analytics_id", "")
+        ga_snippet = ""
+        if ga_id and ga_id != "G-YOUR-GA-ID":
+            ga_snippet = f'<script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{ga_id}")</script>'
         html = INDEX_HTML.format(blog_name=self.c["blog_name"],
                                 blog_tagline=self.c["blog_tagline"],
+                                ga_snippet=ga_snippet,
                                 cards=cards, css=INDEX_CSS)
         (BLOG / "index.html").write_text(html, encoding="utf-8")
         return len(articles)
@@ -316,6 +321,42 @@ class Deployer:
         except: return False
 
 # ============================================================
+# Token 统计
+# ============================================================
+def token_report():
+    total_chars = 0
+    total_words = 0
+    total_links = 0
+    article_count = 0
+    for f in BLOG.glob('best-*.html'):
+        article_count += 1
+        c = f.read_text(encoding='utf-8')
+        total_chars += len(c)
+        total_words += len(c.split())
+        total_links += len(re.findall(r'amazon\.com', c, re.I))
+    est_in = total_chars // 4
+    est_out = est_in // 2
+    social_count = len(list((DATA / 'social_posts').glob('*.json')))
+    report = {
+        'date': datetime.now().strftime('%Y-%m-%d %H:%M'),
+        'articles': article_count,
+        'total_chars': total_chars,
+        'total_words': total_words,
+        'amazon_links': total_links,
+        'est_tokens_input': est_in,
+        'est_tokens_output': est_out,
+        'est_total_tokens': est_in + est_out,
+        'social_posts_queued': social_count
+    }
+    # Save
+    token_file = DATA / 'logs' / 'token_report.json'
+    reports = json.loads(token_file.read_text(encoding='utf-8')) if token_file.exists() else []
+    reports.append(report)
+    reports = reports[-30:]
+    token_file.write_text(json.dumps(reports, ensure_ascii=False, indent=2), encoding='utf-8')
+    return report
+
+# ============================================================
 # 社交推广
 # ============================================================
 class SocialQueue:
@@ -400,7 +441,11 @@ class Pipeline:
             p = sq.generate(f.name, name)
             self.step(f"Social queued: {name.title()}")
 
-        # 7. Deploy check
+        # 7. Token stats
+        tokens = token_report()
+        self.step(f"Tokens: {tokens["est_total_tokens"]:,} est ({tokens["articles"]} articles, {tokens["amazon_links"]} links)")
+
+        # 8. Deploy check
         deployer = Deployer(self.c)
         ready, issues = deployer.check()
         if ready:

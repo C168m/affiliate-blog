@@ -1,0 +1,725 @@
+{
+  "Electronics": [
+    {
+      "keyword": "bluetooth speaker",
+      "products": [
+        {
+          "name": "JBL Flip 6",
+          "asin": "B09HC5D5QH",
+          "price": "$129.95",
+          "rating": "4.5/5",
+          "pros": [
+            "IP67 waterproof and dustproof",
+            "12 hours battery life",
+            "PartyBoost for pairing multiple speakers"
+          ],
+          "cons": [
+            "No microphone for calls",
+            "Charges via USB-C only, no aux input"
+          ],
+          "desc": "JBL Flip 6 delivers surprisingly big sound from a compact body. The IP67 rating means it can handle poolside splashes and beach sand. With 12 hours of playtime, it keeps the music going all day."
+        },
+        {
+          "name": "Sony SRS-XB100",
+          "asin": "B0C7RVL3P1",
+          "price": "$59.99",
+          "rating": "4.6/5",
+          "pros": [
+            "Ultra-portable 274g design with strap",
+            "16 hours battery, USB-C",
+            "Clear calls with echo cancellation"
+          ],
+          "cons": [
+            "Mono speaker, no stereo separation",
+            "Bass limited at higher volumes"
+          ],
+          "desc": "Sony SRS-XB100 is tiny but mighty. The included carry strap attaches to your bag, and the Sound Diffusion Processor creates surprisingly wide audio. Perfect for hiking, biking, or desk use."
+        },
+        {
+          "name": "Bose SoundLink Flex",
+          "asin": "B09J14QXF1",
+          "price": "$149.00",
+          "rating": "4.6/5",
+          "pros": [
+            "PositionIQ auto-adjusts sound to orientation",
+            "IP67 rugged, floats in water",
+            "Rich bass from custom transducer"
+          ],
+          "cons": [
+            "No speakerphone functionality",
+            "Proprietary charger, USB-C would be better"
+          ],
+          "desc": "Bose SoundLink Flex uses PositionIQ technology to automatically optimize sound whether it sits flat, stands up, or hangs. It floats, survives drops, and sounds full across all genres."
+        },
+        {
+          "name": "Anker Soundcore Motion+",
+          "asin": "B07RPP9CQ8",
+          "price": "$99.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Hi-Res Audio certified, aptX support",
+            "Customizable EQ via Soundcore app",
+            "30W output with dual tweeters and passive radiators"
+          ],
+          "cons": [
+            "Heavier than competitors at 1.05kg",
+            "Not as compact as mono speakers"
+          ],
+          "desc": "Anker Soundcore Motion+ is the audiophile's budget choice. Hi-Res Audio certification, aptX codec support, and a 12-band EQ in the companion app make this the most tunable speaker in its price range."
+        },
+        {
+          "name": "Marshall Emberton II",
+          "asin": "B09QM4Q36X",
+          "price": "$169.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Iconic Marshall amp-inspired design",
+            "30+ hours battery, IP67 rated",
+            "Multi-directional True Stereophonic sound"
+          ],
+          "cons": [
+            "No customizable EQ or app support",
+            "No speakerphone or aux input"
+          ],
+          "desc": "Marshall Emberton II looks like a miniature guitar amp and sounds like one too. The 360-degree True Stereophonic audio fills a room evenly. Over 30 hours of battery and IP67 dust/water resistance make it road-ready."
+        }
+      ]
+    },
+    {
+      "keyword": "wireless mouse",
+      "products": [
+        {
+          "name": "Logitech MX Master 3S",
+          "asin": "B09HMKFD4P",
+          "price": "$99.99",
+          "rating": "4.6/5",
+          "pros": [
+            "8K DPI tracks on any surface including glass",
+            "Quiet clicks, MagSpeed electromagnetic scroll wheel",
+            "USB-C, 70-day battery, 3-device pairing"
+          ],
+          "cons": [
+            "Premium price for a mouse",
+            "Right-handed only, large hands preferred"
+          ],
+          "desc": "Logitech MX Master 3S is the productivity mouse king. The electromagnetic scroll wheel spins 1,000 lines per second, the 8K sensor works on glass, and the quiet clicks respect shared workspaces."
+        },
+        {
+          "name": "Razer DeathAdder V3 Pro",
+          "asin": "B0BCKZXXV8",
+          "price": "$149.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Ultra-light 63g design, Focus Pro 30K sensor",
+            "90-hour battery, USB-C, 4000Hz polling",
+            "Ergonomic shape trusted by millions"
+          ],
+          "cons": [
+            "No Bluetooth, 2.4GHz dongle only",
+            "No RGB lighting to save weight"
+          ],
+          "desc": "At just 63 grams, the Razer DeathAdder V3 Pro disappears in your hand. The Focus Pro 30K optical sensor delivers flawless tracking, and 90 hours of battery means you charge once a quarter."
+        },
+        {
+          "name": "Logitech M720 Triathlon",
+          "asin": "B0749P1VYR",
+          "price": "$39.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Dual connectivity: Bluetooth + Unifying USB",
+            "24-month battery from a single AA",
+            "Hyper-fast scroll wheel, 8 buttons"
+          ],
+          "cons": [
+            "Not rechargeable (AA battery)",
+            "1000 DPI max, not for gaming"
+          ],
+          "desc": "Logitech M720 Triathlon is the budget productivity workhorse. Pair with three devices and switch with a thumb button. The 24-month battery life is class-leading, and the hyperscroll wheel toggles between ratcheted and free-spin."
+        },
+        {
+          "name": "Apple Magic Mouse (USB-C)",
+          "asin": "B0D9R4CGY3",
+          "price": "$79.00",
+          "rating": "4.6/5",
+          "pros": [
+            "Seamless Mac integration, gesture surface",
+            "USB-C charging port finally",
+            "Sleek minimalist design, thin and portable"
+          ],
+          "cons": [
+            "Charging port on bottom, cannot use while charging",
+            "No ergonomic contouring, flat design"
+          ],
+          "desc": "Apple Magic Mouse now charges via USB-C. The multi-touch surface handles gestures like swipe between pages and Mission Control. It pairs instantly with Mac and the rechargeable battery lasts about a month."
+        },
+        {
+          "name": "Razer Basilisk V3",
+          "asin": "B09C13KXNB",
+          "price": "$49.99",
+          "rating": "4.6/5",
+          "pros": [
+            "HyperScroll tilt wheel with smart auto-switch",
+            "11 programmable buttons, 13-zone Chroma RGB",
+            "Optical switches rated for 70M clicks"
+          ],
+          "cons": [
+            "Wired only, no wireless option at this price",
+            "Software requires Razer Synapse"
+          ],
+          "desc": "Razer Basilisk V3 brings premium features to a wired $50 mouse. The HyperScroll wheel automatically switches between free-spin and tactile modes based on scroll speed. Optical switches prevent double-click issues."
+        }
+      ]
+    },
+    {
+      "keyword": "laptop stand",
+      "products": [
+        {
+          "name": "Soundance Laptop Stand LS1",
+          "asin": "B01MCTIHQH",
+          "price": "$34.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Aluminum construction, 6-angle adjustment",
+            "Compatible with 10-17 inch laptops",
+            "Foldable and lightweight 1.3kg"
+          ],
+          "cons": [
+            "Non-adjustable height for standing desk use",
+            "Rubber pads can detach over time"
+          ],
+          "desc": "Soundance LS1 is the best-value laptop stand on the market. The single-piece aluminum design feels premium, and the 6-angle adjustment lets you find the perfect viewing height. It folds flat for your bag."
+        },
+        {
+          "name": "Rain Design mStand",
+          "asin": "B000OOYECC",
+          "price": "$49.90",
+          "rating": "4.6/5",
+          "pros": [
+            "Single solid aluminum slab, matches Mac aesthetic",
+            "Cable management hole in back",
+            "Keyboard tucks underneath when not in use"
+          ],
+          "cons": [
+            "Fixed height and angle, no adjustment",
+            "Heavier than foldable alternatives"
+          ],
+          "desc": "Rain Design mStand is a single piece of precision-cut aluminum that elevates your laptop to eye level. The minimalist design complements Apple hardware perfectly, and the cable management passthrough keeps your desk clean."
+        },
+        {
+          "name": "OMOTON Double-Sided Laptop Stand",
+          "asin": "B0DR3GYSBQ",
+          "price": "$24.99",
+          "rating": "4.4/5",
+          "pros": [
+            "Adjustable height (3.7-7 inches) and angle",
+            "USD 25 price point, great value",
+            "Vented aluminum panel for heat dissipation"
+          ],
+          "cons": [
+            "Assembly required, some wobble at max height",
+            "Not as portable as fixed stands"
+          ],
+          "desc": "OMOTON adjustable laptop stand offers both height and angle adjustment at a budget price. The vented aluminum platform keeps your laptop cool during intensive work, and it supports up to 22 lbs."
+        }
+      ]
+    },
+    {
+      "keyword": "webcam",
+      "products": [
+        {
+          "name": "Logitech C920S Pro HD",
+          "asin": "B07KX4H5XX",
+          "price": "$69.99",
+          "rating": "4.5/5",
+          "pros": [
+            "1080p 30fps, autofocus, stereo mics",
+            "Privacy shutter included",
+            "Works with all video conferencing apps"
+          ],
+          "cons": [
+            "60fps only at 720p",
+            "Field of view fixed at 78 degrees"
+          ],
+          "desc": "Logitech C920S Pro is the gold standard for webcams. Full HD 1080p, reliable autofocus, and dual stereo mics make it plug-and-play perfect for Zoom calls. The physical privacy shutter gives peace of mind."
+        },
+        {
+          "name": "Insta360 Link",
+          "asin": "B0B7RQ2PN5",
+          "price": "$299.99",
+          "rating": "4.3/5",
+          "pros": [
+            "4K resolution with AI gimbal tracking",
+            "3-axis gimbal follows your movement",
+            "Gesture controls, whiteboard mode, overhead mode"
+          ],
+          "cons": [
+            "Expensive compared to fixed webcams",
+            "Software can be resource-heavy"
+          ],
+          "desc": "Insta360 Link uses a 3-axis gimbal to track you around the room. The 4K sensor, AI auto-framing, and gesture controls (raise hand to zoom) make it feel futuristic. Whiteboard and desk-overhead modes add versatility for educators and creators."
+        },
+        {
+          "name": "Anker PowerConf C200",
+          "asin": "B0B7N68PYK",
+          "price": "$59.99",
+          "rating": "4.5/5",
+          "pros": [
+            "2K resolution at 30fps",
+            "Built-in privacy cover, 95-degree FOV",
+            "Excellent low-light correction"
+          ],
+          "cons": [
+            "No 60fps option, fixed focus",
+            "Microphones are average for large rooms"
+          ],
+          "desc": "Anker PowerConf C200 delivers 2K clarity at a 1080p price. The low-light correction is genuinely impressive — your face stays visible even in dim rooms. The built-in sliding privacy cover is a nice touch."
+        }
+      ]
+    },
+    {
+      "keyword": "desk lamp",
+      "products": [
+        {
+          "name": "BenQ ScreenBar",
+          "asin": "B076VNFZJG",
+          "price": "$109.00",
+          "rating": "4.7/5",
+          "pros": [
+            "Clips to monitor, zero desk footprint",
+            "Auto-dimming with ambient light sensor",
+            "Asymmetric optical design, no screen glare"
+          ],
+          "cons": [
+            "Only works with monitors, not laptops",
+            "USB-powered, no wall adapter included"
+          ],
+          "desc": "BenQ ScreenBar mounts on top of your monitor and illuminates just your desk without casting light on the screen. The auto-dimming sensor adjusts brightness to ambient conditions, and the asymmetrical optical design eliminates glare."
+        },
+        {
+          "name": "TaoTronics LED Desk Lamp TT-DL16",
+          "asin": "B07D38ZN34",
+          "price": "$49.99",
+          "rating": "4.5/5",
+          "pros": [
+            "5 color modes, 7 brightness levels",
+            "USB charging port built into base",
+            "60-minute timer and night light mode"
+          ],
+          "cons": [
+            "Gooseneck can sag over time",
+            "Plastic construction feels less premium"
+          ],
+          "desc": "TaoTronics TT-DL16 offers impressive flexibility with 5 color temperatures (warm 2700K to cool 6500K) and 7 brightness levels. The built-in 5V/2.1A USB port charges your phone, and the memory function remembers your last setting."
+        },
+        {
+          "name": "Tomons Swing Arm Desk Lamp",
+          "asin": "B08BFDTXTN",
+          "price": "$69.99",
+          "rating": "4.6/5",
+          "pros": [
+            "Solid wood base, modern mid-century design",
+            "3-point adjustable swing arm, 39-inch reach",
+            "Warm LED included, compatible with E26 bulbs"
+          ],
+          "cons": [
+            "Requires assembly, instructions could be clearer",
+            "No integrated USB or smart features"
+          ],
+          "desc": "Tomons Swing Arm Lamp combines mid-century design with practical functionality. The natural wood base and brass accents look elegant on any desk. The 3-joint swing arm reaches 39 inches and holds position firmly."
+        }
+      ]
+    },
+    {
+      "keyword": "usb-c hub",
+      "products": [
+        {
+          "name": "Anker PowerExpand 8-in-1",
+          "asin": "B08DHQ5P6T",
+          "price": "$39.99",
+          "rating": "4.5/5",
+          "pros": [
+            "100W Power Delivery pass-through",
+            "4K@30Hz HDMI, Gigabit Ethernet",
+            "SD and microSD card slots, 2 USB-A 3.0"
+          ],
+          "cons": [
+            "HDMI limited to 30Hz at 4K",
+            "Gets warm under sustained load"
+          ],
+          "desc": "Anker PowerExpand 8-in-1 is the go-to USB-C hub for most laptops. HDMI 4K output, Gigabit Ethernet, SD card reader, and 100W passthrough charging make it a one-cable docking solution for both work and travel."
+        },
+        {
+          "name": "Satechi USB-C Slim Multiport Adapter",
+          "asin": "B0C4MFTLHW",
+          "price": "$69.99",
+          "rating": "4.4/5",
+          "pros": [
+            "4K@60Hz HDMI for smooth external display",
+            "Ethernet, USB-C PD 100W, USB-A, SD reader",
+            "Slim aluminum build matches MacBooks"
+          ],
+          "cons": [
+            "Limited to 60W charging on some laptops",
+            "USB-A ports are 5Gbps, not 10Gbps"
+          ],
+          "desc": "Satechi Slim Multiport Adapter is designed to match MacBook aesthetics perfectly. The aluminum body, 4K@60Hz HDMI, 100W PD pass-through, and Ethernet make it ideal for creators who want a seamless desk-to-go setup."
+        },
+        {
+          "name": "UGREEN Revodok Pro 7-in-1",
+          "asin": "B0CCNM77HB",
+          "price": "$24.99",
+          "rating": "4.5/5",
+          "pros": [
+            "4K@60Hz HDMI, 100W PD, 3 USB-A ports",
+            "Ultra-compact and lightweight",
+            "Budget price with premium specs"
+          ],
+          "cons": [
+            "No Ethernet port",
+            "SD card slot is UHS-I only"
+          ],
+          "desc": "UGREEN Revodok Pro packs 4K@60Hz HDMI and 100W charging into one of the smallest hubs available. At USD 25, it is the best value USB-C hub for users who do not need Ethernet or SD cards."
+        }
+      ]
+    },
+    {
+      "keyword": "ring light",
+      "products": [
+        {
+          "name": "Neewer 18-inch Ring Light Kit",
+          "asin": "B07F1XZB71",
+          "price": "$109.99",
+          "rating": "4.5/5",
+          "pros": [
+            "18-inch diameter with 240 LED beads",
+            "3200K-5600K color temperature, 1-100% brightness",
+            "Includes 61-inch tripod stand and phone holder"
+          ],
+          "cons": [
+            "Tripod feels slightly flimsy at full height",
+            "No Bluetooth remote shutter included"
+          ],
+          "desc": "Neewer 18-inch Ring Light is the standard for video calls and content creation. The large diameter creates soft, shadow-free lighting. 3200K-5600K range matches natural light or warm indoors. The included tripod adjusts from 19 to 61 inches."
+        },
+        {
+          "name": "Logitech Litra Glow",
+          "asin": "B09J1858YS",
+          "price": "$59.99",
+          "rating": "4.6/5",
+          "pros": [
+            "Monitors-mounted or tripod, zero desk footprint",
+            "TrueSoft edge-lit diffusion, no harsh shadows",
+            "USB-C powered, Streamlabs integration"
+          ],
+          "cons": [
+            "Smaller light area than ring lights",
+            "No battery, must stay plugged in"
+          ],
+          "desc": "Logitech Litra Glow clips onto your monitor and delivers professional-grade soft light with TrueSoft edge-lit diffusion. Logitech G Hub lets you adjust brightness and color temperature from your desktop. USB-C keeps cables tidy."
+        }
+      ]
+    },
+    {
+      "keyword": "monitor arm",
+      "products": [
+        {
+          "name": "ErGear Single Monitor Arm",
+          "asin": "B08CG9KKZH",
+          "price": "$39.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Supports 13-32 inch monitors up to 17.6 lbs",
+            "Gas spring for smooth adjustment, full motion",
+            "C-clamp and grommet mounting included"
+          ],
+          "cons": [
+            "Cable management clips feel cheap",
+            "Tension adjustment requires an Allen key"
+          ],
+          "desc": "ErGear monitor arm frees up desk space instantly. The gas spring mechanism makes adjusting height and angle a one-finger operation. Supports ultrawide monitors up to 32 inches and 17.6 lbs. Both C-clamp and grommet options included."
+        },
+        {
+          "name": "HUANUO Dual Monitor Mount",
+          "asin": "B07PGMY372",
+          "price": "$69.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Holds two 13-32 inch monitors up to 17.6 lbs each",
+            "Full articulation: tilt, swivel, rotate 360 degrees",
+            "Removable VESA plates for easy installation"
+          ],
+          "cons": [
+            "Large C-clamp may not fit desks with thick trim",
+            "Requires sturdy desk, heavy at full extension"
+          ],
+          "desc": "HUANUO Dual Monitor Mount handles two screens with independent articulation. Each arm tilts, swivels, and rotates for portrait or landscape orientation. The integrated cable management keeps wires hidden and the desk clean."
+        }
+      ]
+    },
+    {
+      "keyword": "ergonomic mouse",
+      "products": [
+        {
+          "name": "Logitech MX Vertical",
+          "asin": "B07FNJB8TT",
+          "price": ".99",
+          "rating": "4.5/5",
+          "pros": [
+            "57-degree vertical angle reduces wrist strain",
+            "USB-C, 4-month battery, 3-device pairing",
+            "4000 DPI sensor, silent clicks"
+          ],
+          "cons": [
+            "Learning curve to get used to vertical grip",
+            "Not for gaming, 125Hz polling rate"
+          ],
+          "desc": "Logitech MX Vertical is designed with a natural 57-degree handshake angle that reduces wrist pressure by 10% compared to traditional mice. The textured rubber surface and sculpted thumb rest make long work sessions fatigue-free."
+        },
+        {
+          "name": "Anker Ergonomic Vertical Mouse",
+          "asin": "B0CQ8VKYPF",
+          "price": ".99",
+          "rating": "4.4/5",
+          "pros": [
+            "Budget-friendly vertical ergonomic design",
+            "800/1200/1600 DPI adjustable, plug-and-play",
+            "Comfortable for medium-large hands"
+          ],
+          "cons": [
+            "Wired only, USB-A connection",
+            "No extra buttons or software customization"
+          ],
+          "desc": "Anker Vertical Mouse is an affordable entry into ergonomic computing. The upright 55-degree angle keeps your forearm in a neutral position, while the optical sensor tracks accurately on most surfaces without a mousepad."
+        },
+        {
+          "name": "Logitech Lift Vertical Mouse",
+          "asin": "B09LTD14Y1",
+          "price": ".99",
+          "rating": "4.6/5",
+          "pros": [
+            "Designed for small-medium hands, 57-degree angle",
+            "Whisper-quiet clicks, SmartWheel scroll",
+            "2-year battery life, dual Bluetooth + USB"
+          ],
+          "cons": [
+            "Left-handed version costs more",
+            "No USB-C charging, uses AA battery"
+          ],
+          "desc": "Logitech Lift is the everyday vertical mouse built for smaller hands. The textured grip, silent buttons, and contoured thumb rest make it disappear in your palm during 8-hour workdays."
+        }
+      ]
+    }
+  ],
+  "HomeOffice": [
+    {
+      "keyword": "standing desk",
+      "products": [
+        {
+          "name": "Flexispot EC1 Standing Desk Frame",
+          "asin": "B07XP2ZGKZ",
+          "price": "$249.99",
+          "rating": "4.5/5",
+          "pros": [
+            "Electric height-adjustable 28-47.6 inches",
+            "Quiet motor, 154 lbs lift capacity",
+            "Memory controller with 3 presets"
+          ],
+          "cons": [
+            "Desktop not included, need to buy separately",
+            "Assembly takes 1-2 hours"
+          ],
+          "desc": "Flexispot EC1 is an electric standing desk frame that transforms any tabletop into a sit-stand desk. The quiet motor adjusts height smoothly, and three memory presets save your preferred standing and sitting heights."
+        }
+      ]
+    },
+    {
+      "keyword": "ergonomic chair",
+      "products": [
+        {
+          "name": "Hbada Ergonomic Office Chair",
+          "asin": "B08DNCWQZM",
+          "price": "$239.99",
+          "rating": "4.4/5",
+          "pros": [
+            "3D adjustable armrests, lumbar support, headrest",
+            "Breathable mesh back, 300 lbs capacity",
+            "Adjustable seat depth and tilt tension"
+          ],
+          "cons": [
+            "Assembly requires two people ideally",
+            "Mesh seat may not suit all preferences"
+          ],
+          "desc": "Hbada Ergonomic Chair hits the sweet spot of features and price. The 3D armrests adjust up/down, forward/back, and rotate. The dynamic lumbar support adapts as you lean, and the breathable mesh back keeps you cool through long work sessions."
+        }
+      ]
+    }
+  ],
+  "PhoneAccessories": [
+    {
+      "keyword": "phone charger",
+      "products": [
+        {
+          "name": "Anker 735 Charger (GaNPrime 65W)",
+          "asin": "B09W2RJL34",
+          "price": "$39.99",
+          "rating": "4.6/5",
+          "pros": [
+            "65W total: 2 USB-C + 1 USB-A, charge 3 devices",
+            "GaN technology, ultra-compact",
+            "PowerIQ 3.0 dynamically allocates power"
+          ],
+          "cons": [
+            "65W total shared across ports",
+            "Charging cables not included"
+          ],
+          "desc": "Anker 735 GaNPrime charger powers your phone, tablet, and laptop from a single wall plug. At 65W with two USB-C and one USB-A port, it replaces three separate chargers. Gan technology keeps it impressively small."
+        },
+        {
+          "name": "Apple 35W Dual USB-C Charger",
+          "asin": "B0B3C8Y5NH",
+          "price": "$59.00",
+          "rating": "4.6/5",
+          "pros": [
+            "Charge two devices simultaneously",
+            "Compact Apple design, foldable US prongs",
+            "Works with iPhone, iPad, Apple Watch, AirPods"
+          ],
+          "cons": [
+            "35W shared, not enough for MacBook",
+            "Cables sold separately"
+          ],
+          "desc": "Apple 35W Dual USB-C Charger is the perfect travel companion for iPhone and Apple Watch owners. The compact design with foldable prongs fits any bag, and 35W handles two devices at once with smart power allocation."
+        }
+      ]
+    },
+    {
+      "keyword": "iPhone tripod",
+      "products": [
+        {
+          "name": "Joby GripTight ONE GorillaPod",
+          "asin": "B0747RCKJ2",
+          "price": "$24.95",
+          "rating": "4.5/5",
+          "pros": [
+            "Flexible legs wrap around poles and branches",
+            "Fits phones 2.3-3.6 inches wide",
+            "Rubberized grip and foot rings prevent slipping"
+          ],
+          "cons": [
+            "No Bluetooth shutter remote included",
+            "Legs can loosen over heavy use"
+          ],
+          "desc": "Joby GripTight ONE GorillaPod wraps its flexible legs around tree branches, fence posts, or desk edges for creative angles. The spring-loaded phone clamp fits most smartphones with or without a case."
+        }
+      ]
+    },
+    {
+      "keyword": "portable charger",
+      "products": [
+        {
+          "name": "Anker PowerCore 10000 Redux",
+          "asin": "B09VP3R4QB",
+          "price": ".99",
+          "rating": "4.6/5",
+          "pros": [
+            "10,000mAh, 2.4 phone charges",
+            "USB-C + USB-A dual output, 25W max",
+            "Pocket-sized: 5.87 x 2.72 x 0.57 inches"
+          ],
+          "cons": [
+            "No built-in cable",
+            "Slow recharging at 10W input"
+          ],
+          "desc": "Anker PowerCore 10000 Redux packs enough juice for two full iPhone charges in a device smaller than a deck of cards. The 25W output handles fast charging for both iPhone and Samsung Galaxy phones simultaneously."
+        },
+        {
+          "name": "Anker Power Bank 20,000mAh 87W",
+          "asin": "B0C4YBMH48",
+          "price": ".99",
+          "rating": "4.5/5",
+          "pros": [
+            "87W USB-C charges a MacBook Air",
+            "20,000mAh, 4+ phone charges",
+            "Digital display shows remaining percentage"
+          ],
+          "cons": [
+            "Heavier at 0.84 lbs / 381g",
+            "Charges at 30W input, takes ~4 hours"
+          ],
+          "desc": "Anker 20,000mAh 87W power bank bridges the gap between phone chargers and laptop power. The 87W USB-C port tops up a MacBook, while the secondary port charges your phone — perfect for road warriors and digital nomads."
+        },
+        {
+          "name": "INIU Portable Charger 22.5W",
+          "asin": "B07QXV6N1B",
+          "price": ".99",
+          "rating": "4.6/5",
+          "pros": [
+            "10,000mAh, USD 18 price, amazing value",
+            "22.5W USB-C PD + QC 4.0 fast charging",
+            "3 outputs, can charge 3 devices at once"
+          ],
+          "cons": [
+            "Plastic housing, not as premium as Anker",
+            "No built-in cable or display"
+          ],
+          "desc": "INIU Portable Charger is the budget champion. At under , it delivers 22.5W fast charging, 10,000mAh capacity, and can feed three devices simultaneously."
+        }
+      ]
+    }
+  ],
+  "Audio": [
+    {
+      "keyword": "noise cancelling headphones",
+      "products": [
+        {
+          "name": "Sony WH-1000XM5",
+          "asin": "B09XS7JWHH",
+          "price": ".00",
+          "rating": "4.6/5",
+          "pros": [
+            "Industry-leading noise cancellation with Auto NC Optimizer",
+            "30-hour battery, 3-min quick charge = 3 hours",
+            "Crystal-clear hands-free calling with 8 microphones"
+          ],
+          "cons": [
+            "No IP rating for water resistance",
+            "Does not fold flat for travel"
+          ],
+          "desc": "Sony WH-1000XM5 sets the benchmark for noise cancellation. The Integrated Processor V1 and dual noise sensor technology adapt to your environment in real-time, creating a near-silent bubble wherever you work or travel."
+        },
+        {
+          "name": "Bose QuietComfort Ultra",
+          "asin": "B0CD2F4BQL",
+          "price": ".00",
+          "rating": "4.5/5",
+          "pros": [
+            "Immersive spatial audio with head tracking",
+            "CustomTune ANC adapts to ear shape",
+            "24-hour battery, 15-min charge = 2.5 hours"
+          ],
+          "cons": [
+            "Premium price point",
+            "Multipoint can be finicky with some devices"
+          ],
+          "desc": "Bose QuietComfort Ultra combines legendary ANC with spatial audio that places music in a 360-degree soundstage. The plush ear cushions and lightweight build make them wearable for cross-country flights without fatigue."
+        },
+        {
+          "name": "Apple AirPods Pro 2 (USB-C)",
+          "asin": "B0CHX3Z4SK",
+          "price": ".00",
+          "rating": "4.7/5",
+          "pros": [
+            "2x stronger Active Noise Cancellation",
+            "Adaptive Transparency, Conversation Awareness",
+            "MagSafe/USB-C charging, Find My with precision tracking"
+          ],
+          "cons": [
+            "Battery life 6 hours per charge (30h with case)",
+            "ANC not as strong as over-ear models"
+          ],
+          "desc": "Apple AirPods Pro 2 with the H2 chip deliver a massive leap in noise cancellation and sound quality. Personalized Spatial Audio adapts to your ears, and the new adaptive audio modes blend ANC and transparency seamlessly."
+        }
+      ]
+    }
+  ]
+}
